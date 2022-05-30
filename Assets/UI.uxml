@@ -1,0 +1,5 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:Label text="Label" display-tooltip-when-elided="true" name="Label" style="width: 10%; height: 2%; font-size: 70px;" />
+    <ui:Label text="Health" display-tooltip-when-elided="true" name="Health" style="height: 46px; position: absolute; top: 95px; left: 20px; width: 126px; font-size: 25px; color: rgb(241, 62, 51);" />
+    <ui:Label text="Ghastly Energy" display-tooltip-when-elided="true" name="GhastlyEnergy" style="height: 38px; position: absolute; top: 147px; left: 17px; width: 198px; font-size: 25px; color: rgb(180, 6, 255);" />
+</ui:UXML>

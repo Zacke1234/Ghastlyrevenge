@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:Label text="Credits" display-tooltip-when-elided="true" name="label1" style="font-size: 18px;" />
+    <ui:Label text="https://opengameart.org/users/cptx032 for the low poly spider" display-tooltip-when-elided="true" name="label2" enable-rich-text="false" />
+    <ui:Label display-tooltip-when-elided="true" name="label3" text="https://opengameart.org/users/clint-bellanger for the humanoid" />
+    <ui:Label text="https://opengameart.org/users/spookymodem for the spider sound effects" display-tooltip-when-elided="true" name="label4" />
+    <ui:Button text="Back" display-tooltip-when-elided="true" name="back-button" style="position: absolute; top: 534px; left: 523px; width: 158px; height: 40px;" />
+</ui:UXML>

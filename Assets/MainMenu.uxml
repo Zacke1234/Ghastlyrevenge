@@ -1,0 +1,9 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement style="height: 692px; background-color: rgb(214, 29, 29); color: rgb(255, 255, 255); align-items: center; justify-content: space-around;">
+        <ui:Label text="Ghostly energy" display-tooltip-when-elided="true" style="font-size: 24px; color: rgb(0, 0, 0); position: absolute; top: 200px; left: auto; align-items: flex-start;" />
+        <ui:Button text="Start" display-tooltip-when-elided="true" name="start-button" style="position: absolute; -unity-text-align: middle-center; left: auto; top: 350px; width: 152px; height: 39px; align-items: stretch; justify-content: space-around; font-size: 18px;" />
+        <ui:Button text="Quit" display-tooltip-when-elided="true" name="quit-button" style="width: 150px; height: 38px; font-size: 18px; position: absolute; top: 400px;" />
+        <ui:Label text="Kill Enemies to regain energy when you are a ghost.&#10;Spacebar to fly up and F to fly downwards" display-tooltip-when-elided="true" name="Label" style="height: 38px; position: relative;" />
+        <ui:Button text="Credits" display-tooltip-when-elided="true" name="credits-button" />
+    </ui:VisualElement>
+</ui:UXML>
